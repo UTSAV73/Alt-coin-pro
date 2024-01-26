@@ -37,3 +37,9 @@ Cost matrices for different types of self-attention
 1) High training time.
 2) Difficult to implement due to lack of research and tooling.
 3) High utilization of resources.
+   
+ # References
+ https://towardsdatascience.com/block-recurrent-transformer-lstm-and-transformer-combined-ec3e64af971a
+ https://towardsdatascience.com/temporal-fusion-transformer-googles-model-for-interpretable-time-series-forecasting-5aa17beb621
+ https://github.com/lucidrains/block-recurrent-transformer-pytorch
+ 
